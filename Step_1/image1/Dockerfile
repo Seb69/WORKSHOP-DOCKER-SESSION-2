@@ -1,0 +1,5 @@
+FROM alpine:3.6
+
+ENTRYPOINT ["echo"]
+
+CMD ["HELLO WORLD"]
